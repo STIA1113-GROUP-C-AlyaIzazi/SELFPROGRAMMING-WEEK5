@@ -1,0 +1,16 @@
+package selfProgramming;
+
+public class ifStatement {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int y = 45;
+		int z = 60;
+				
+		if (z > y)
+		System.out.println("y is greater than z.");
+
+	}
+
+}

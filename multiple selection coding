@@ -1,5 +1,5 @@
 package selfProgramming;
-
+import java.util.Scanner;
 public class multipleSelection {
 
 	public static void main(String[] args) {
